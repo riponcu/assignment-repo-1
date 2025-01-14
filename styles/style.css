@@ -71,3 +71,122 @@ font-size: 20px;
     height: 200;
     margin: 10px 20px;
 }
+.box4{
+    margin:0px 68px 68px;
+    padding: 5px;
+    background-color: #FFFFFF;
+ 
+}
+.bowes{
+    display: flex;
+    justify-content: left;
+    /* margin: 20px; */
+    padding: 10px;
+    /* text-align: justify; */
+}
+.pic{
+  width: 25px;
+  height: 25px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+  border: #FFFFFF;
+}
+.bol{
+   font-weight: 15px;
+   font-size: bold;
+}
+.vision{
+    margin-top: 20px;
+    padding: 0%;
+}
+.bdv{
+    font-weight: bold;
+    font-size: 30px;
+    color: #0E0E0E;
+}
+.lorm{
+    font-weight: 100px;
+    font-size: 10px;
+    margin:10px 0px 0px;
+    padding: 0px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
+.im1{
+    width: 25px;
+    height: 25px;
+    margin-bottom: 40px;
+}
+.title-2{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #0E0E0E;
+    font-weight: bold;
+    font-size: 12px;
+    padding: 5px;
+}
+.bdy{
+    font-weight: bold;
+    font-size: 10px;
+   color: #a83d3dda;
+}
+.btn1{
+width: 90px;
+height: 30px;
+background-color: #5490F5;
+color: #FFFFFF;
+border-radius: 8px;
+margin-top: 7px;
+/* border:none; */
+}
+.btn2{
+    width: 90px;
+    height: 30px;
+    background-color: #09A15C;
+    color: #FFFFFF;
+    border-radius: 8px;
+    margin-top: 7px;
+    }
+    .btn3{
+        width: 90px;
+        height: 30px;
+        background-color: #FFC239;
+        color: #FFFFFF;
+        border-radius: 8px;
+        margin-top: 7px;
+        }
+        .div1{
+            width: 300px;
+            height: 180px;
+            /* margin: 10px 10px 10px 1px; */
+            align-items: center;
+            padding: 15px;
+            margin-right: 10px;
+            justify-content: center;
+            border-radius: 10px;
+            background-color: #e3e6ebd2;
+        }
+        .div2{
+                width: 300px;
+                height: 180px;
+                /* margin: 10px 10px 10px 1px; */
+                align-items: center;
+                padding: 15px;
+                margin-right: 10px;
+                justify-content: center;
+                border-radius: 10px;
+                background-color: #C6E4D6;
+            }
+        .div3{
+            width: 300px;
+                height: 180px;
+                /* margin: 10px 10px 10px 1px; */
+                align-items: center;
+                padding: 15px;
+                justify-content: center;
+                border-radius: 10px;
+                background-color: #a2ac23c9;
+        }
